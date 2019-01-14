@@ -4,4 +4,8 @@ The chinook database is representative of a digital media store. In this project
 
 This project was done under minimal guidance from the dataquest online data science programme.
 
-The Schema diagram was created using microsoft visio and based on the schema diagram given by dataquest.
+Files:
+------
+- chinnok.sqlite - database downloaded from dataquest
+- schema_digaram.pdf - diagram showing relational strudcture of database created using Microsoft Viso
+- chinnok_analysis.ipynb - analysis document
